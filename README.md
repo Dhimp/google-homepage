@@ -1,4 +1,4 @@
 # google-homepage
 A copy of the google homepage
 
-<html>
+<a href="www.google.com">google homepage</a>

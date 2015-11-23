@@ -1,0 +1,68 @@
+#logo {
+	height: 30px; width: 30px;
+}
+
+#list {
+	list-style: none;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+li {
+	display: inline;
+	
+}
+
+#footer {
+	position: absolute;
+	height: 40px;
+	right: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: grey;
+}
+
+#search {
+	height: 38px; width: 566px;
+	position: absolute;
+	left: 680px;
+	top: 320px;
+}
+
+#image {
+	height: 92px; width: 272px;
+	position: absolute;
+	left: 825px;
+	top: 200px;
+}
+
+#gsearch {
+	height: 36px; width: 132px;
+	position: absolute;
+	left: 815px;
+	top: 390px;
+}
+
+#isearch {
+	height: 36px; width: 150px;
+	position: absolute;
+	top: 390px;
+	left: 950px;
+}
+
+#righty {
+	float: right;
+	padding: 10px;
+}
+
+#lefty {
+	position: absolute;
+	padding: 10px;
+	bottom: 0;
+}
+
+a {
+	text-decoration: none;
+	font-size: 12px;
+}
